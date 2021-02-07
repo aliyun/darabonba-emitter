@@ -1,0 +1,23 @@
+{
+  "name": "@darabonba/emitter",
+  "version": "1.0.0",
+  "description": "The emitter for codegen",
+  "main": "lib/emitter.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "lint": "eslint --fix lib/ test/",
+    "test": "mocha -R spec test/*.test.js",
+    "test-cov": "nyc -r=lcov -r=html -r=text -r=json npm run test",
+    "ci": "npm run lint && npm run test-cov && codecov"
+  },
+  "author": "Jackson Tian",
+  "license": "Apache License 2.0",
+  "devDependencies": {
+    "codecov": "^3.8.1",
+    "eslint": "^7.19.0",
+    "mocha": "^8.2.1",
+    "nyc": "^15.1.0"
+  }
+}
