@@ -5,6 +5,7 @@
 [![codecov][cov-image]][cov-url]
 [![David deps][david-image]][david-url]
 [![npm download][download-image]][download-url]
+[![license][license-img]][license-url]
 
 [npm-image]: https://img.shields.io/npm/v/@darabonba/emitter.svg?style=flat-square
 [npm-url]: https://npmjs.org/package/@darabonba/emitter
@@ -16,6 +17,8 @@
 [david-url]: https://david-dm.org/aliyun/darabonba-emitter
 [download-image]: https://img.shields.io/npm/dm/@darabonba/emitter.svg?style=flat-square
 [download-url]: https://npmjs.org/package/@darabonba/emitter
+[license-img]: https://img.shields.io/npm/l/@darabonba/emitter.svg
+[license-url]: LICENSE
 
 ## Installation
 
