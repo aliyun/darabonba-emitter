@@ -9,7 +9,7 @@
 [npm-image]: https://img.shields.io/npm/v/@darabonba/emitter.svg?style=flat-square
 [npm-url]: https://npmjs.org/package/@darabonba/emitter
 [travis-image]: https://img.shields.io/travis/aliyun/darabonba-emitter.svg?style=flat-square
-[travis-url]: https://travis-ci.org/aliyun/darabonba-emitter
+[travis-url]: https://travis-ci.com/aliyun/darabonba-emitter
 [cov-image]: https://codecov.io/gh/aliyun/darabonba-emitter/branch/master/graph/badge.svg
 [cov-url]: https://codecov.io/gh/aliyun/darabonba-emitter
 [david-image]: https://img.shields.io/david/aliyun/darabonba-emitter.svg?style=flat-square
